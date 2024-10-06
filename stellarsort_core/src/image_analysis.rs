@@ -1,5 +1,4 @@
-use image::{DynamicImage, GrayImage};
-use rayon::prelude::*;
+use image::DynamicImage;
 use thiserror::Error;
 
 /// Benutzerdefinierter Fehler für die Bildanalyse
