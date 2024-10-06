@@ -1,7 +1,7 @@
 use stellarsort_core::detect_blur;
 
 fn main() {
-    let img = image::open("blur_noise.png").unwrap();
+    let img = image::open("noise31.png").unwrap();
 
     let blur_threshold = 100.0;  // Adjust this based on testing
 

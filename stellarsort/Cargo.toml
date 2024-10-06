@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 stellarsort_core = { path = "../stellarsort_core" }
 image = "*"
+indicatif = "*"

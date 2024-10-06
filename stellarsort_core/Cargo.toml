@@ -10,3 +10,4 @@ rayon = "*"         # Optional: Für parallele Verarbeitung
 thiserror = "*"     # Optional: Für benutzerdefinierte Fehler
 log = "*"           # Optional: Für Logging
 env_logger = "*"   # Optional: Für Logging-Implementierung
+indicatif = "*"
